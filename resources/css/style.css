@@ -388,14 +388,14 @@ header nav .icon {
     display: flex;
     flex-direction: column;
     background-color: #FFFFFF; /* white */
-    margin: 0 0 0 0;
+    margin: 0;
   }
 
   .information .column02 .row03 {
     display: flex;
     flex-direction: column;
     background-color: #FFFFFF; /* white */
-    margin: 0 0 0 0;
+    margin: 0;
   }
 
   .information .column03 {
@@ -482,8 +482,8 @@ header nav .icon {
 .courses .row03 {
   color: hsl(0, 0%, 50%); /* gray */
   height: 50%;
-  margin: 0 0 2rem 0;
   background-color: #FFFFFF; /* white */
+  margin: 0 0 2rem 0;
 }
 
 .courses .row04 {
@@ -565,7 +565,7 @@ header nav .icon {
 
   .courses h4 {
     padding: 1rem 0 1rem 1rem;
-    margin: 0 0 0 0;
+    margin: 0;
   }
 
   .courses span {
@@ -599,7 +599,7 @@ header nav .icon {
   flex-direction: column;
   align-items: flex-start;
   width: 60%;
-  margin: 0 1.5rem 0 1.5rem;
+  margin: 0 1.5rem;
 }
 
 .thesis .column01 video {
@@ -625,8 +625,8 @@ header nav .icon {
 
 .thesis .column02 .row03 {
   display: flex;
-  margin: 0 0 1rem 0;
   background-color: hsl(0, 0%, 60%); /* gray */
+  margin: 0 0 1rem 0;
 }
 
 .thesis .column02 .row04 {
